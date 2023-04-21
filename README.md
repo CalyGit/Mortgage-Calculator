@@ -6,7 +6,7 @@ This is a Jupyter notebook that calculates monthly mortgage payments and the tot
 ## Usage
 To use the mortgage calculator, follow these steps:
 
-*Open the mortgage_calculator.ipynb file in Jupyter notebook.
+* Open the mortgage_calculator.ipynb file in Jupyter notebook.
 * Click on "Cell" in the menu bar, and select "Run All" to execute all cells.
 * Enter the mortgage loan principal, annual interest rate (as a percentage), and the number of years you wish to pay off the mortgage.
 * The program will then calculate the monthly mortgage payment and the total amount payable.
