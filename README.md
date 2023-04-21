@@ -1,5 +1,6 @@
 # Mortgage-Calculator
-#AFCA Bank Mortgage Calculator
+
+# AFCA Bank Mortgage Calculator
 This is a Python program that calculates monthly mortgage payments and the total amount payable for a given principal, interest rate, and mortgage term.
 
 ## Usage
